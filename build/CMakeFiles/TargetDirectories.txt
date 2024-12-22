@@ -1,0 +1,14 @@
+C:/_LABY_/Kursach/build/CMakeFiles/MyExecutable.dir
+C:/_LABY_/Kursach/build/CMakeFiles/edit_cache.dir
+C:/_LABY_/Kursach/build/CMakeFiles/rebuild_cache.dir
+C:/_LABY_/Kursach/build/CMakeFiles/list_install_components.dir
+C:/_LABY_/Kursach/build/CMakeFiles/install.dir
+C:/_LABY_/Kursach/build/CMakeFiles/install/local.dir
+C:/_LABY_/Kursach/build/CMakeFiles/install/strip.dir
+C:/_LABY_/Kursach/build/fmt/CMakeFiles/fmt.dir
+C:/_LABY_/Kursach/build/fmt/CMakeFiles/edit_cache.dir
+C:/_LABY_/Kursach/build/fmt/CMakeFiles/rebuild_cache.dir
+C:/_LABY_/Kursach/build/fmt/CMakeFiles/list_install_components.dir
+C:/_LABY_/Kursach/build/fmt/CMakeFiles/install.dir
+C:/_LABY_/Kursach/build/fmt/CMakeFiles/install/local.dir
+C:/_LABY_/Kursach/build/fmt/CMakeFiles/install/strip.dir

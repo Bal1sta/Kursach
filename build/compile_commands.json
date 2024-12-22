@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/_LABY_/Kursach/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/_LABY_/Kursach/include -IC:/_LABY_/Kursach/fmt/include -g -std=gnu++11 -o CMakeFiles\\MyExecutable.dir\\main.cpp.obj -c C:\\_LABY_\\Kursach\\main.cpp",
+  "file": "C:\\_LABY_\\Kursach\\main.cpp",
+  "output": "CMakeFiles\\MyExecutable.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/_LABY_/Kursach/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/_LABY_/Kursach/include -IC:/_LABY_/Kursach/fmt/include -g -std=gnu++11 -o fmt\\CMakeFiles\\fmt.dir\\src\\format.cc.obj -c C:\\_LABY_\\Kursach\\fmt\\src\\format.cc",
+  "file": "C:\\_LABY_\\Kursach\\fmt\\src\\format.cc",
+  "output": "fmt\\CMakeFiles\\fmt.dir\\src\\format.cc.obj"
+},
+{
+  "directory": "C:/_LABY_/Kursach/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/_LABY_/Kursach/include -IC:/_LABY_/Kursach/fmt/include -g -std=gnu++11 -o fmt\\CMakeFiles\\fmt.dir\\src\\os.cc.obj -c C:\\_LABY_\\Kursach\\fmt\\src\\os.cc",
+  "file": "C:\\_LABY_\\Kursach\\fmt\\src\\os.cc",
+  "output": "fmt\\CMakeFiles\\fmt.dir\\src\\os.cc.obj"
+}
+]

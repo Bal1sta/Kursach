@@ -1,0 +1,10 @@
+# ninja log v6
+7	1264	7565641255602263	CMakeFiles/MyExecutable.dir/main.cpp.obj	b6ac37602a5e040
+1264	1497	7565641268193346	MyExecutable.exe	34656a2f229bcb90
+29	1878	7560753516566389	fmt/CMakeFiles/fmt.dir/src/os.cc.obj	d486c651317c595c
+3	2663	7560753516409842	fmt/CMakeFiles/fmt.dir/src/format.cc.obj	41c0627b4b3235eb
+2664	2803	7560753543017755	fmt/libfmtd.a	305ce013edeb85c5
+5	1286	7565740453420498	CMakeFiles/MyExecutable.dir/main.cpp.obj	b6ac37602a5e040
+1286	1516	7565740466158964	MyExecutable.exe	34656a2f229bcb90
+5	1288	7565740708033914	CMakeFiles/MyExecutable.dir/main.cpp.obj	b6ac37602a5e040
+1288	1533	7565740720808398	MyExecutable.exe	34656a2f229bcb90
